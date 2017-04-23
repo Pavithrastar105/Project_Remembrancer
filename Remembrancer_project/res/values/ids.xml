@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="lvMain">false</item>
+    <item type="id" name="btnNewNote">false</item>
+    <item type="id" name="etInfo">false</item>
+    <item type="id" name="btnOK">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="etMemo">false</item>
+    <item type="id" name="linearLayout2">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="etDate">false</item>
+    <item type="id" name="btnDate">false</item>
+    <item type="id" name="linearLayout3">false</item>
+    <item type="id" name="textView3">false</item>
+    <item type="id" name="etTime">false</item>
+    <item type="id" name="btnTime">false</item>
+    <item type="id" name="NewMemo">false</item>
+    <item type="id" name="SetOptions">false</item>
+</resources>

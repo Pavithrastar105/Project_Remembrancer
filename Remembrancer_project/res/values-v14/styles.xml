@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault" />
+    <style name="AppBaseTheme.Light" parent="@android:style/Theme.Holo.Light.DarkActionBar" />
+    <style name="AppBaseTheme.Black" parent="@android:style/Theme.Holo" />
+</resources>

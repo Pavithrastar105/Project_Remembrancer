@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme" />
+    <style name="AppBaseTheme.Light" parent="@android:style/Theme.Light" />
+    <style name="AppBaseTheme.Black" parent="@android:style/Theme.Black" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="AppTheme.Light" parent="@style/AppBaseTheme.Light" />
+    <style name="AppTheme.Black" parent="@style/AppBaseTheme.Black" />
+</resources>

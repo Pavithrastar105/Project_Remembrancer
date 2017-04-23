@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textSize="20sp" android:textStyle="1" android:id="@id/text1" android:layout_width="-1" android:layout_height="-2" android:text="This is memo text" />
+    <TextView android:textColor="#ffff0000" android:gravity="5" android:id="@id/text2" android:layout_width="-1" android:layout_height="-2" android:text="This is datetime" />
+    <View android:background="#ffcccccc" android:layout_width="-1" android:layout_height="1dp" />
+</LinearLayout>

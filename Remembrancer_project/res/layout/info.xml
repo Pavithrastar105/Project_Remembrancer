@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <EditText android:textStyle="1" android:gravity="30" android:id="@id/etInfo" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="test
+rlkrlkftrlrtfr" android:layout_weight="1.0" android:textAlignment="5" />
+    <Button android:textStyle="1" android:layout_gravity="1" android:id="@id/btnOK" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="15sp" android:layout_marginRight="15sp" android:text="OK">
+        <requestFocus />
+    </Button>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <EditTextPreference android:title="@string/alarm_repeat_Title" android:key="alarm_repeat_minutes" android:summary="@string/alarm_repeat_Summary" android:defaultValue="0" android:inputType="2002" />
+    <ListPreference android:entries="@array/entries_lang" android:title="@string/LangTitle" android:key="lang" android:summary="@string/LangSummary" android:dialogTitle="@string/LangDialogTitle" android:entryValues="@array/entryvalues_lang" />
+    <ListPreference android:entries="@array/entries_theme" android:title="@string/ThemeTitle" android:key="theme" android:summary="@string/ThemeSummary" android:dialogTitle="@string/ThemeDialogTitle" android:entryValues="@array/entryvalues_theme" />
+    <PreferenceScreen android:title="@string/Restart" android:key="restart" /> />

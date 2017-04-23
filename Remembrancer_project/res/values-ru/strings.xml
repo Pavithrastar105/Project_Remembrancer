@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Напоминалка</string>
+    <string name="pref_name">Настройки</string>
+    <string name="notify_new_task_message">A task needs to be reviewed!</string>
+    <string name="notify_new_task_title">Напоминание!</string>
+    <string name="new_memo">Добавить напоминание</string>
+    <string name="del_memo">Удалить напоминание</string>
+    <string name="edit_memo">Изменить напоминание</string>
+    <string name="set_options">Настройки</string>
+    <string name="memo_label">Текст</string>
+    <string name="info_label">Напоминание</string>
+    <string name="date_label">Дата</string>
+    <string name="date_hint">ДДММГГ</string>
+    <string name="etc">...</string>
+    <string name="time_label">Время</string>
+    <string name="time_hint">ЧЧММ</string>
+    <string name="write_memo">Сохранить</string>
+    <string name="at">в</string>
+    <string name="Restart">Перезапуск</string>
+    <string name="LangTitle">Язык</string>
+    <string name="LangDialogTitle">Выберите язык:</string>
+    <string name="LangSummary">"Язык приложения.
+Необходимо перезапустить приложение для принятия изменений."</string>
+    <string name="ThemeTitle">Тема</string>
+    <string name="ThemeDialogTitle">Выберите тему приложения:</string>
+    <string name="ThemeSummary">"Тема приложения.
+Необходимо перезапустить приложение для принятия изменений."</string>
+    <string name="alarm_repeat_Title">Повтор сигнала</string>
+    <string name="alarm_repeat_Summary">Установите интерва повтора сигнала в минутах. 0 - однократно.</string>
+</resources>

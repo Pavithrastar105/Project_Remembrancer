@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:id="@id/linearLayout1" android:layout_width="-1" android:layout_height="-2" android:layout_margin="10dp">
+        <TextView android:textStyle="1" android:id="@id/textView1" android:layout_width="-2" android:layout_height="-2" android:text="@string/memo_label" />
+        <EditText android:textStyle="1" android:id="@id/etMemo" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:layout_weight="1.0">
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+    <LinearLayout android:id="@id/linearLayout2" android:layout_width="-1" android:layout_height="-2" android:layout_margin="10dp">
+        <TextView android:textStyle="1" android:id="@id/textView2" android:layout_width="-2" android:layout_height="-2" android:text="@string/date_label" />
+        <EditText android:textStyle="1" android:id="@id/etDate" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:hint="@string/date_hint" android:ems="10" android:layout_weight="1.0" android:inputType="14" />
+        <ImageButton android:id="@id/btnDate" android:background="0x106000d" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/ic_calendar" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/linearLayout3" android:layout_width="-1" android:layout_height="-2" android:layout_margin="10dp">
+        <TextView android:textStyle="1" android:id="@id/textView3" android:layout_width="-2" android:layout_height="-2" android:text="@string/time_label" />
+        <EditText android:textStyle="1" android:id="@id/etTime" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:hint="@string/time_hint" android:ems="10" android:layout_weight="1.0" android:inputType="24" />
+        <ImageButton android:id="@id/btnTime" android:background="0x106000d" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/ic_clock" />
+    </LinearLayout>
+    <Button android:textStyle="1" android:layout_gravity="1" android:id="@id/btnOK" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="15sp" android:layout_marginRight="15sp" android:text="@string/write_memo" />
+</LinearLayout>

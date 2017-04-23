@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remembrancer</string>
+    <string name="pref_name">Settings</string>
+    <string name="notify_new_task_message">A task needs to be reviewed!</string>
+    <string name="notify_new_task_title">Time to review memo!</string>
+    <string name="new_memo">Add new reminder</string>
+    <string name="del_memo">Delete reminder</string>
+    <string name="edit_memo">Edit reminder</string>
+    <string name="set_options">Options</string>
+    <string name="memo_label">Memo</string>
+    <string name="info_label">Remind</string>
+    <string name="date_label">Date</string>
+    <string name="date_hint">DDMMYY</string>
+    <string name="etc">...</string>
+    <string name="time_label">Time</string>
+    <string name="time_hint">HHMM</string>
+    <string name="write_memo">Save</string>
+    <string name="at">at</string>
+    <string name="Restart">Restart</string>
+    <string name="LangTitle">Language</string>
+    <string name="LangDialogTitle">Choose language:</string>
+    <string name="LangSummary">"Application language.
+Need restart application to apply changes."</string>
+    <string name="ThemeTitle">Theme</string>
+    <string name="ThemeDialogTitle">Choose application theme:</string>
+    <string name="ThemeSummary">"Application theme.
+Need restart application to apply changes."</string>
+    <string name="alarm_repeat_Title">Repeat Alarm</string>
+    <string name="alarm_repeat_Summary">Set Alarm repetitions interval in minutes. 0 - only once.</string>
+</resources>
